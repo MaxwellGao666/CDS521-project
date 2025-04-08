@@ -1,0 +1,6 @@
+model_checkpoint_path: "step290094.ckpt"
+all_model_checkpoint_paths: "step275000.ckpt"
+all_model_checkpoint_paths: "step280000.ckpt"
+all_model_checkpoint_paths: "step285000.ckpt"
+all_model_checkpoint_paths: "step290000.ckpt"
+all_model_checkpoint_paths: "step290094.ckpt"
